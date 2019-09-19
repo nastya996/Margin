@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Language</string>
+    <string name="textView">Hello World!</string>
+    <string name="choose_language">Choose the language</string>
+    <string name="ok">OK</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Russian</item>
+    </string-array>
+    <string name="choose_margin">choose the margin</string>
+    <string-array name="margin">
+        <item>small</item>
+        <item>average</item>
+        <item>big</item>
+    </string-array>
+</resources>
