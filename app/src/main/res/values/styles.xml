@@ -12,7 +12,7 @@
         <item name="android:layout_margin">1dp</item>
     </style>
 
-    <style name="MarginAverage" parent="AppTheme">
+    <style name="MarginMiddle" parent="AppTheme">
         <item name="android:layout_margin">3dp</item>
     </style>
 

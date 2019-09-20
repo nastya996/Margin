@@ -10,7 +10,7 @@
     <string name="choose_margin">choose the margin</string>
     <string-array name="margin">
         <item>small</item>
-        <item>average</item>
+        <item>middle</item>
         <item>big</item>
     </string-array>
 </resources>

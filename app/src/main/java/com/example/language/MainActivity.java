@@ -51,15 +51,14 @@ public class MainActivity extends AppCompatActivity {
                 this.n = 1;
                 return;
             case 1:
-                Utils.changeToTheme(this, Utils.MARGIN_AVERAGE);
+                Utils.changeToTheme(this, Utils.MARGIN_MIDDLE);
                 this.n = 2;
                 return;
             case 2:
                 Utils.changeToTheme(this, Utils.MARGIN_SMALL);
                 this.n = 3;
                 return;
-
-            default:
+                default:
                 break;
 
         }
