@@ -19,7 +19,6 @@ public class Utils {
         activity.startActivity(new Intent(activity, activity.getClass()));
 
     }
-
     public static void onActivityCreateSetTheme(Activity activity)
     {
         switch (sTheme)
